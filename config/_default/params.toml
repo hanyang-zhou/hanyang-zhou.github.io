@@ -2,16 +2,16 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/Cartoon-Logo.001.png"
+logo_darkmode = "images/Cartoon-Logo.001-darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "160px"
+logo_width = "180px"
 logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
-logo_webp = true
+logo_webp = false
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Hanyang's Place"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "Based on Design from [Zeon Studio](https://zeon.studio). Further modified by Hanyang Zhou."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -37,9 +37,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
-label = "get a quote"
-link = "contact"
+enable = false
+label = "More About Me"
+link = "about"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
@@ -57,15 +57,15 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "Website now live but under construction. Please ignore any thing here.(Aug 1st, 2024)"
+content = "Website now live but under construction. Please ignore any thing here.(Aug 9th, 2024)"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
-[metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+# [metadata]
+# keywords = ["Hanyang Zhou", "USC"]
+# description = "Hanyang Zhou's personal website"
+# author = "Hanyang Zhou"
+# image = "images/og-image.png"
 
 
 # site verifications

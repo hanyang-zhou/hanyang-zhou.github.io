@@ -2,31 +2,35 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "主页"
 pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "关于我"
 pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Projects"
+name = "研究项目"
 weight = 3
 
 [[main]]
-parent = "Projects"
-name = "Update Later..."
+parent = "研究项目"
+name = "等待更新中。。。"
 pageRef = "/404"
 
 [[main]]
+name = "更多"
 weight = 4
-name = "More"
 
 [[main]]
-parent = "More"
-name = "Update Later.."
+parent = "更多"
+name = "更新中。。。"
+pageRef = "/404"
+
+[[main]]
+
 
 # [[main]]
 # parent = "More"

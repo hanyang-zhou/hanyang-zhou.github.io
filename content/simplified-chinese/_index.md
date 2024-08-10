@@ -1,10 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Welcome to Hanyang's Place!"
-  content: "My research interest centers on designing and controlling robotic systems. 
-  I am a Master student in the [**SLURM** Lab](https://slurm-lab-usc.github.io/) at [**Thomas Lord
-Department of Computer Science , Univesity of Southern California**](https://www.cs.usc.edu/) advised by [**Prof. Daniel Seita**](https://danielseita.github.io/). Prior to this, I received my BEng degree in Computer Science at [**Dalian University of Technology**](https://drise.dlut.edu.cn)."
+  title: "Hej，欢迎来到涵阳的小世界！"
+  content: "目前，我在南加州大学[**Thomas Lord Department of Computer Science , Univesity of Southern California**](https://www.cs.usc.edu/)攻读硕士研究生学位。我在 [**SLURM**](https://slurm-lab-usc.github.io/)实验室进行学习和研究，我的导师是 [**Daniel Seita**](https://danielseita.github.io/)教授。在此之前，我在[**大连理工大学-国际信息与软件学院**](https://drise.dlut.edu.cn/)获得了软件工程专业的工学学士学位。"
+
   image: "/images/Cartoon-Logo.002.png"
   button:
     enable: false
@@ -27,5 +26,4 @@ features:
   #     enable: false
   #     label: "Get Started Now"
   #     link: "#"
-
 ---

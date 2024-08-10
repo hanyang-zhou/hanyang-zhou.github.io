@@ -1,24 +1,29 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
-    },
-    {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/BaiBaiBaiSTRONG"
     },
     {
       "name": "linkedin",
       "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://www.linkedin.com/in/hanyang-zhou-usc/"
+    },
+    {
+      "name": "YouTube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@hanyangchou2642"
+    },
+    {
+      "name": "bilibili",
+      "icon": "fab fa-bilibili",
+      "link": "https://space.bilibili.com/85818536"
+    },
+    {
+      "name": "email",
+      "icon": "fas fa-envelope",
+      "link": "mailto:hanyang.zhou@usc.edu"
     }
   ]
 }
