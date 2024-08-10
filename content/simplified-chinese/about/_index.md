@@ -1,6 +1,6 @@
 ---
 title: "Hej, I am Hanyang Zhou!"
-meta_title: "Hanyang's Place - About Me"
+meta_title: "涵阳的小世界 - 关于我"
 description: "this is meta description"
 image: "/images/Avatar-Real.png"
 draft: false
