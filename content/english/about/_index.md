@@ -1,14 +1,14 @@
 ---
-title: "Hej, I am Hanyang Zhou!"
+title: "مرحباً بكم، 大家好，Bonjour à tous, Здравствуйте всем, Hola a todos, Grüezi mitenand, Hello everyone, I am Hanyang Zhou!"
 meta_title: "Hanyang's Place - About Me"
-description: "this is meta description"
+description: "Hanyang Zhou is a dedicated researcher and software engineer with a strong foundation in computer science and a passion for pushing the boundaries of technology."
 image: "/images/Avatar-Real.png"
 draft: false
 ---
 
-Greetings! I'm a dedicated researcher and software engineer with a strong foundation in computer science and a passion for pushing the boundaries of technology.
+Hoi! I'm a dedicated researcher and software engineer with a strong foundation in computer science and a passion for pushing the boundaries of technology.
 
-I am a Master student major in Computer Science now at the University of Southern California(! **Fight On** !), where I specialized in artificial intelligence and robotics. I hold a Bachelor's degree in Computer Science from the University of Electronic Science and Technology of China, where I developed a solid understanding of computer science fundamentals and honed my skills in software development, machine learning, and data analysis.
+I am a Master student major in Computer Science now at the University of Southern California(! **Fight On** !), where I specialized in artificial intelligence and robotics. I hold a Bachelor's degree in Computer Science from the Dalian University of Technology, where I developed a solid understanding of computer science fundamentals and honed my skills in software development, machine learning, and data analysis.
 
 My current research focus lies at the exciting intersection of deep learning and traditional control theory. I'm working on optimizing robot control in complex task environments by integrating these two powerful paradigms. This innovative approach aims to leverage the adaptability and pattern recognition capabilities of deep learning models while harnessing the stability and reliability of classical control methods. By fusing these techniques, we're striving to develop more robust, efficient, and versatile robotic systems capable of handling intricate real-world scenarios.
 

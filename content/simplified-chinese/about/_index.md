@@ -1,14 +1,16 @@
 ---
-title: "Hej, I am Hanyang Zhou!"
+title: "مرحباً بكم، Bonjour à tous, Здравствуйте всем, Hola a todos, Grüezi mitenand, Hello everyone, 欢迎大家来到我的小世界！"
 meta_title: "涵阳的小世界 - 关于我"
-description: "this is meta description"
+description: "一名热爱技术和创新的学生工程师。"
 image: "/images/Avatar-Real.png"
 draft: false
 ---
 
-早上好！中午好！晚上好！我是周涵阳，一名热爱技术和创新的学生工程师。
+早上好！中午好！晚上好！
 
-我目前是南加州大学（University of Southern California）的计算机科学硕士研究生（**！Fight On**），专攻Artificial Intelligence和Robotics Manipulation 方向。我拥有大连理工大学的软件工程学士学位，在那里我建立了坚实的计算机科学基础知识，并磨练了Software Development、System Design、Pjoject Management、Machine Learning和Data Analysis的技能。
+我是涵阳，一名热爱技术和创新的学生工程师。
+
+我目前是南加州大学（University of Southern California）的计算机科学硕士研究生（**！Fight On**），主攻Artificial Intelligence 和 Robotics Manipulation 方向。我拥有大连理工大学的软件工程学士学位，在那里我建立了坚实的计算机科学基础知识，并磨练了 Software Development、System Design、Pjoject Management、Machine Learning和Data Analysis 的技能。
 
 我当前的研究重点在 Deep Learning 和传统 Control Theory 的激动人心的交叉领域。我正在试图通过从这两种强大的方向中汲取灵感来优化复杂任务环境中的 Robot Manipulation。这种创新方法旨在利用 Deep Learning Models 的适应性和模式识别能力，同时结合经典 Control Theory 的稳定性和可靠性。我们正在努力开发更加 Robust、Efficient 和 Versatile 的 robotic systems，用以满足复杂现实世界场景的需求。
 
