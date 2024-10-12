@@ -15,18 +15,17 @@ weight = 2
 name = "Projects"
 weight = 3
 
-[[main]]
-parent = "Projects"
-name = "Update Later..."
-pageRef = "/404"
 
 [[main]]
 weight = 4
 name = "More"
 
 [[main]]
-parent = "More"
-name = "Update Later.."
+parent = "Projects"
+name = "SopeDex"
+pageRef = "/sopedex"
+
+[[main]]
 
 # [[main]]
 # parent = "More"
