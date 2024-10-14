@@ -57,7 +57,7 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "One of my Co-Author paper has been accepted by International Symposium of Robotics Research (ISRR) 2024!"
+content = "One of my co-author papers has been accepted by the International Symposium of Robotics Research (ISRR) 2024! Check Under Projects for more details."
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo

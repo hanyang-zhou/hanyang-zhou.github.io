@@ -19,6 +19,7 @@ weight = 3
 [[main]]
 weight = 4
 name = "More"
+pageRef = "/404"
 
 [[main]]
 parent = "Projects"
