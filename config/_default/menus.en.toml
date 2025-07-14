@@ -27,6 +27,11 @@ name = "SopeDex"
 pageRef = "/sopedex"
 
 [[main]]
+parent = "Projects"
+name = "MOTIF Hand"
+pageRef = "/motif"
+
+[[main]]
 
 # [[main]]
 # parent = "More"

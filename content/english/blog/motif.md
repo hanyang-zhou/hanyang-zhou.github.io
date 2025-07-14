@@ -78,7 +78,7 @@ The research presents several key contributions:
 | Component       | Specification         | Details                                 |
 | --------------- | --------------------- | --------------------------------------- |
 | Base Platform   | LEAP Hand             | 16-DOF dexterous manipulation platform  |
-| Thermal Camera  | FLIR Lepton 3.5       | 160×120 native, 1080×960 interpolated   |
+| Thermal Camera  | FLIR Lepton 3.5       | 160×120 native, 1280×960 interpolated   |
 | Tactile Sensors | Thin Film Arrays      | 6×6 grid, 2.5mm resolution, 20g trigger |
 | IMU Sensors     | 9-Axis Units          | BMM350 magnetic sensor with shielding   |
 | Depth Sensor    | ToF Module            | Real-time palm-to-surface distance      |
